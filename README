@@ -1,0 +1,9 @@
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+* Scintillation light Analyzer for Liquid Argon Dual-phase Events *
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+software needs miniconda with the dependencies of LARDON
+
+To run salade on data : 
+python3 salade.py -run <run nb> -sub <subfile name> -n <nb of events (optional)> -out <output file option>
+
